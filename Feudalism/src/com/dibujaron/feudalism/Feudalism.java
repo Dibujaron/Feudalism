@@ -1,5 +1,7 @@
 package com.dibujaron.feudalism;
 
-public class Feudalism {
+import org.bukkit.plugin.java.JavaPlugin;
+
+public class Feudalism extends JavaPlugin{
 
 }
